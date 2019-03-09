@@ -1,1 +1,1 @@
-# monitoring_platform
+# monitoring-platform
